@@ -8,3 +8,4 @@
 - [json解析](src/com/zwl/Demo_06.groovy)
 - [DSLS语法](src/com/zwl/Demo_07.groovy)
 - [元对象编程](src/com/zwl/Demo_08.groovy)
+- [闭包及特性](src/com/zwl/Demo_09.groovy)
