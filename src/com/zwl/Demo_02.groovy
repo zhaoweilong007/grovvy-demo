@@ -13,10 +13,15 @@ class Demo_02 {
         println methodName(188, 12, 34)
         println splicing("甜心宝贝")
         println defaultParam(null, "defaultMethod")
+        println noreturn()
     }
 
     static def demo() {
         "hello groovy"
+    }
+
+    static def noreturn() {
+        println "execute noreturn method"
     }
 
     /**
